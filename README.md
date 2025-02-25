@@ -1,0 +1,1 @@
+This is the source code of my mushroom fruiting chamber's controller. It targets the Raspberry Pi Pico and is written using the C SDK. Many thanks to Eleanor McMurtry for their [Pico DHT-22](https://github.com/eleanor-em/) library.
